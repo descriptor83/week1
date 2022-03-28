@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "descriptor83",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
